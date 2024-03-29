@@ -1,0 +1,26 @@
+.Footer {
+  width: 45rem;
+  height: 3rem;
+  background-color: rgb(243, 245, 245);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-top: 1px solid rgb(40, 39, 39);
+  position: sticky;
+  bottom: 0;
+}
+
+.Footer image {
+  padding: 0 4rem;
+}
+
+@media (max-width: 576px) {
+  .Footer {
+    width: 23rem;
+  }
+}
+@media (min-width: 577px) and (max-width: 728px) {
+  .Footer {
+    width: 40rem;
+  }
+}
