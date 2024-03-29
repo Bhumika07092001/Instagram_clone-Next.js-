@@ -41,6 +41,9 @@ GUI:
 2. ![Screenshot (492)](https://github.com/Bhumika07092001/Necxis/assets/109783089/bffc2969-ed5b-44a8-95a7-81aeb50ff090)
 3. ![Screenshot (490)](https://github.com/Bhumika07092001/Necxis/assets/109783089/1aeff31e-08f6-417b-8f60-6c7e3ce9e5be)
 4. ![Screenshot (491)](https://github.com/Bhumika07092001/Necxis/assets/109783089/5adb9302-3e81-4902-a4c4-9c356cd65ec0)
+5. ![Screenshot (493)](https://github.com/Bhumika07092001/Necxis/assets/109783089/a4319cbc-508e-4754-b82c-af4a7415bb20)
+6.![Screenshot (494)](https://github.com/Bhumika07092001/Necxis/assets/109783089/acbcdccd-f6be-46ca-b978-d45f8922a00b)
+
 
 
 
